@@ -17,6 +17,7 @@ class KangleipakGoApp extends StatelessWidget {
         useMaterial3: true,
         colorSchemeSeed: const Color(0xFF176B3A),
         scaffoldBackgroundColor: const Color(0xFFF8FAF8),
+        fontFamily: 'Roboto',
       ),
       home: const HomeScreen(),
     );
